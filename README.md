@@ -1,5 +1,4 @@
-# Project1-Neural-Networks
-Classification of medical images with convolutional networks
+# Classification of medical images with convolutional networks
 This repository contains a deep learning solution for **medical image classification** using **Convolutional Neural Networks (CNNs)**. The goal is to accurately identify different **pathologies and tissue types** from medical images.
 
 ## 📌 Project Overview
